@@ -1,0 +1,2 @@
+ Successfully verified contract DynamicPricefeed on Etherscan.
+https://rinkeby.etherscan.io/address/0xb7EDBCa95a0Eb1B894ce988eF03e4aDF68735044#code

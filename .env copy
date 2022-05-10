@@ -1,0 +1,7 @@
+
+ETHERSCAN_API_KEY=SSRGNZ52SGWWQ3NCWNS4NC3EJ1PW4M5858 
+MNEMONIC="vacuum minimum shoe elbow onion power analyst fever bicycle rude bottom tackle"
+RPC_NODE=`https://ropsten.infura.io/v3/f92b70f0f82c4b2184d365b2efc9a4cd`
+PRIVATE_KEY=6b4d15f0f8778b5723baab93970e3c60f8a1d6ad281790df065482231f6ef5a8
+ROPSTEN_URL=`https://ropsten.infura.io/v3/f92b70f0f82c4b2184d365b2efc9a4cd`
+RINKEBY_URL=`https://rinkeby.infura.io/v3/f92b70f0f82c4b2184d365b2efc9a4cd`
